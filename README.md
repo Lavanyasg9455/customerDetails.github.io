@@ -67,3 +67,15 @@ Method: POST
 *Then the Project will be created we need setup the Configuration files Like dispatcherServlet-servlet.xml, hibernate.cfg.xml, web.xml, pom.xml.
 *And also, I followed here MVC Design Pattern i.e., Model View Control 
 *After setup all these configuration files and By using MVC design pattern  we need to write the code and run by using the URL: http://localhost:8080/customerDetails/
+
+NOTE:
+This application i have developed only for particular organization so there is no Register Page to use registration
+Login Id: test@sunbasedata.com
+Password: Test@123
+
+This is Video Link of My Project(Customer_Details): https://drive.google.com/file/d/1Svu2QKtTZKo3SlSCPc3_yI5ybsZ9Xxu2/view?usp=sharing
+
+Privously I have done one project Called VaccinApp Portal Using Spring MVC 
+This is my GitHub Link: https://github.com/Lavanyasg9455/VaccineApp
+This is Video Link of the VaccineApp Portal Project: https://drive.google.com/file/d/1LSUZii3nfNVsvmp8iBD_xRG9KlSAO7GY/view?usp=sharing
+
